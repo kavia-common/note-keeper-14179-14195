@@ -14,7 +14,7 @@ Backend: Flask Notes API
   python run.py
 
 - API Docs:
-  Visit http://localhost:5000/docs to explore OpenAPI docs.
+  Visit http://localhost:3001/docs (if using default container config) or http://localhost:5000/docs (if running locally with PORT=5000).
 
 Endpoints:
 - GET /           -> Health
